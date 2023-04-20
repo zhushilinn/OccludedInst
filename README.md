@@ -1,1 +1,2 @@
 # OccludedInst
+We screened the Cityscapes dataset and the BDD100K dataset for occlusion, respectively, and obtained the Cityscapes-OCC and BDD100K-OCC subsets, respectively. The screened scripts are select_cityscapes.py and select_bdd.py respectively. The basis for screening is that the threshold of box overlap is 0.1.
